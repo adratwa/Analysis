@@ -24,7 +24,7 @@ The project requires Python 3.x and the following libraries:
 Clone this repository to your local machine using:
 
 ```
-git clone https://github.com/adratwa/LuxuryCompanyProject.git
+git clone https://github.com/adratwa/Luxury_Company_Project.git
 ```
 
 Then install the required libraries using pip:
